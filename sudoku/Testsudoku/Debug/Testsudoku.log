@@ -1,0 +1,5 @@
+﻿  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+Check.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+Check.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  Testsudoku.vcxproj -> E:\repository\sudoku\Debug\DefaultTest.dll
+  Testsudoku.vcxproj -> E:\repository\sudoku\Debug\DefaultTest.pdb (Full PDB)
